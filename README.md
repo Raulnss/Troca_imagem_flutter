@@ -1,6 +1,6 @@
 # trocar_img
 
-Codigo simples que faz a troca de imagens ao clicar em um button que fica em um drawer
+Codigo simples que faz a troca de imagens ao clicar em um button que fica em um drawer, cada imagem tem um button de like e deslike
 
 A new Flutter project.
 
